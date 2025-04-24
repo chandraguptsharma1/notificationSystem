@@ -36,11 +36,11 @@ This Android app integrates **Firebase Cloud Messaging (FCM)** for push notifica
 
 | Firebase Drawer | Multiple Notifications | Notification Detail |
 |------------------|-------------------------|----------------------|
-| ![notif1](screenshots/notification1.jpg) | ![notif2](screenshots/notification2.jpg) | ![notif3](screenshots/notification3.jpg) |
+| ![notif1](screenshots/notification1.jpg) | ![notif2](screenshots/notification2.jpg) | ![notif3](screenshots/notification5.jpg) |
 
 | Notification List | Read Highlight | More |
 |------------------|----------------|------|
-| ![notif4](screenshots/notification4.jpg) | ![notif5](screenshots/notification5.jpg) | ![notif6](screenshots/notification6.jpg) |
+| ![notif4](screenshots/notification4.jpg) | ![notif5](screenshots/notification6.jpg) | ![notif6](screenshots/notification3.jpg) |
 
 ---
 
